@@ -309,14 +309,14 @@ Nouvelle génération de modèles fluides et méthodes numériques précises et 
 Régime ***phases séparées***
 
 - Modèles eulériens de mélange bi-fluide avec fraction volumique $\alpha$
-- Faible information sur la géométrie de l’interface ($\alpha$, $\nabla \alpha$) - maillage
+- Faible information sur la géométrie de l’interface $(~\alpha$, $\nabla \alpha~)$ - maillage
 
 </br>
 
 Régime ***phases dispersées***
 
 - Modèles eulériens aux moments
-- Haute information sur la géométrie de l’interface avec la distribution en taille de gouttelettes ($\alpha$, $\Sigma$, $H$, $G$)
+- Haute information sur la géométrie de l’interface avec la distribution en taille de gouttelettes $(~\alpha$, $\Sigma$, $H$, $G~)$
 
 </br>
 
@@ -356,7 +356,7 @@ Transfert inter-échelle
 ::::{.fs-5 .small-lh}
 Atomisation primaire, coalescence
 
-géométrie de l’interface via ($\alpha$, $\nabla \alpha$)
+géométrie de l’interface via $(~\alpha$, $\nabla \alpha~)$
 ::::
 :::
 
@@ -367,7 +367,7 @@ géométrie de l’interface via ($\alpha$, $\nabla \alpha$)
 ***Petite échelle***
 ::::
 
-Modèle de gouttelettes oscillantes base sur  ($\alpha^d$, $\Sigma$, $H$, $G$ + variables dynamiques)
+Modèle de gouttelettes oscillantes base sur  $(~\alpha^d$, $\Sigma$, $H$, $G$ + variables dynamiques $)$
 
 - Géométrie différentielle / modèles cinétiques
 :::
